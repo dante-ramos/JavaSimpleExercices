@@ -1,5 +1,4 @@
 ///https://www.hackerrank.com/challenges/strange-code/problem
-import java.math.*;
 public class StrangeCounters {
 
 	public static void main(String[] args) {

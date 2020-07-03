@@ -11,6 +11,7 @@ public class GridSearch {
 				new String[]{"99","11"}));
 	}
 
+	@SuppressWarnings("unused")
 	static String gridSearch(String[] G, String[] P) {
 		String ret = "NO";
 		int posG = 0; // walk each G line

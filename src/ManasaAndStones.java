@@ -1,8 +1,6 @@
 // https://www.hackerrank.com/challenges/manasa-and-stones/problem
-import java.awt.List;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class ManasaAndStones {
 
