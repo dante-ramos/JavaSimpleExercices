@@ -2,7 +2,6 @@
 public class GridSearch {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(GridSearch.gridSearch(
 				new String[]{"444444","433224","422224","411114","433224","444444"},
 				new String[]{"22","11","22"}));

@@ -2,7 +2,6 @@
 public class HappyLabybugs {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(happyLadybugs("AABCBC"));
 		// System.out.println(happyLadybugs("RBY_YBR"));
 	}

@@ -5,7 +5,6 @@ import java.util.Arrays;
 public class ManasaAndStones {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(Arrays.toString(stones(58, 69, 24)));
 		System.out.println(Arrays.toString(stones(83, 86, 81)));
 		System.out.println(Arrays.toString(stones(73, 25, 25)));

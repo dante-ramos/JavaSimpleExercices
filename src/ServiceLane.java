@@ -3,7 +3,6 @@ import java.util.Arrays;
 public class ServiceLane {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		for(int value: serviceLane(8, new int[][] {{0,3},{4,6},{6,7},{3,5},{0,7}}, new int[] {2, 3, 1, 2, 3, 2, 3, 3,})) {
 			System.out.println(value);
 		} // 1,2,3,2,1

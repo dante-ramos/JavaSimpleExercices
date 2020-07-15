@@ -6,7 +6,6 @@ import java.util.Set;
 public class AbsolutePermutation {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println(Arrays.toString(absolutePermutation(5,0)));
 		System.out.println(Arrays.toString(absolutePermutation(2,1)));
 		System.out.println(Arrays.toString(absolutePermutation(4,1)));
